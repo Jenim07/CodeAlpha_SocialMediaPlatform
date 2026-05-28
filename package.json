@@ -1,0 +1,15 @@
+{
+  "name": "aether-social-media",
+  "version": "1.0.0",
+  "description": "Premium glassmorphic mini social media platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "author": "Antigravity Pair",
+  "license": "ISC"
+}

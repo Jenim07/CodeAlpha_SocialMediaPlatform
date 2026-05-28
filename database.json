@@ -1,0 +1,182 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "antigravity",
+      "display_name": "Antigravity Dev",
+      "password_hash": "a6c67035e41504bbaa924659cea9aba34c552cb75a6ffeaa2f6184c198b82e06",
+      "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=150&auto=format&fit=crop&q=80",
+      "bio": "Crafting beautiful interactive experiences. Pair programming with AI! 🚀✨",
+      "created_at": "2026-05-23T18:50:02.120Z"
+    },
+    {
+      "id": 2,
+      "username": "nova_explorer",
+      "display_name": "Nova Stargazer",
+      "password_hash": "a6c67035e41504bbaa924659cea9aba34c552cb75a6ffeaa2f6184c198b82e06",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "bio": "Astrophotographer, dream chaser, and lover of glowing night skies. 🌌🌌",
+      "created_at": "2026-05-24T18:50:02.121Z"
+    },
+    {
+      "id": 3,
+      "username": "design_pulse",
+      "display_name": "Aura Design",
+      "password_hash": "a6c67035e41504bbaa924659cea9aba34c552cb75a6ffeaa2f6184c198b82e06",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "bio": "Dedicated to the art of glassmorphism, glowing micro-animations, and CSS magic. Let's build the future! 🎨✨",
+      "created_at": "2026-05-25T18:50:02.121Z"
+    },
+    {
+      "id": 4,
+      "username": "jenim",
+      "display_name": "jen",
+      "password_hash": "1a0aeb9f17a154f3bf5bedfd07325246633309ff63d2eeddfc0f09bef404c934",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Quantum",
+      "bio": "heyy",
+      "created_at": "2026-05-28T18:55:23.570Z"
+    },
+    {
+      "id": 5,
+      "username": "jenimwqww",
+      "display_name": "jensas",
+      "password_hash": "df76f6f1d29ac35eaf579c89f4045c78971ec44b73129e8ca487379ce6af6b9a",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Quantum",
+      "bio": "hahaha",
+      "created_at": "2026-05-28T19:11:16.675Z"
+    }
+  ],
+  "posts": [
+    {
+      "id": 4,
+      "user_id": 5,
+      "content": "asasa",
+      "image_url": "https://www.bing.com/th/id/OIP.SqEICC59PL1VrdefhGEqqgHaCg?w=295&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+      "created_at": "2026-05-28T19:16:58.442Z"
+    },
+    {
+      "id": 1,
+      "user_id": 3,
+      "content": "Welcome to Aether! 🌟 I've been refining this interface with custom backdrop-filters, smooth transitions, and high-fidelity glows. Standard layouts are a thing of the past. Drop your feedback below!",
+      "image_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=80",
+      "created_at": "2026-05-28T06:50:02.121Z"
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "content": "Shot this glowing nebula from my backyard last night. The vastness of space never fails to blow my mind. ✨🔭 Are we alone in the cosmic ocean?",
+      "image_url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=800&auto=format&fit=crop&q=80",
+      "created_at": "2026-05-28T10:50:02.121Z"
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "content": "Pair programming is the fastest way to learn. There's something truly magical about building clean, performant applications from scratch in a unified stack. Who's writing code today?",
+      "image_url": "",
+      "created_at": "2026-05-28T16:50:02.121Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "post_id": 1,
+      "user_id": 1,
+      "content": "This looks absolutely breathtaking! The glassmorphism borders and vibrant typography make it feel incredibly premium. Good job! 👏🔥",
+      "created_at": "2026-05-28T08:50:02.121Z"
+    },
+    {
+      "id": 2,
+      "post_id": 1,
+      "user_id": 2,
+      "content": "The colors are perfectly tuned. It feels like stepping into a sci-fi cockpit. Lovin' it!",
+      "created_at": "2026-05-28T09:50:02.121Z"
+    },
+    {
+      "id": 3,
+      "post_id": 2,
+      "user_id": 1,
+      "content": "Incredible shot! What lens and exposure time did you use? This belongs in a gallery. 🌌",
+      "created_at": "2026-05-28T11:50:02.121Z"
+    }
+  ],
+  "likes": [
+    {
+      "user_id": 1,
+      "post_id": 1
+    },
+    {
+      "user_id": 2,
+      "post_id": 1
+    },
+    {
+      "user_id": 1,
+      "post_id": 2
+    },
+    {
+      "user_id": 3,
+      "post_id": 2
+    },
+    {
+      "user_id": 5,
+      "post_id": 1
+    },
+    {
+      "user_id": 5,
+      "post_id": 3
+    },
+    {
+      "user_id": 5,
+      "post_id": 2
+    },
+    {
+      "user_id": 5,
+      "post_id": 4
+    }
+  ],
+  "follows": [
+    {
+      "follower_id": 1,
+      "following_id": 2
+    },
+    {
+      "follower_id": 1,
+      "following_id": 3
+    },
+    {
+      "follower_id": 2,
+      "following_id": 1
+    },
+    {
+      "follower_id": 3,
+      "following_id": 1
+    },
+    {
+      "follower_id": 4,
+      "following_id": 1
+    },
+    {
+      "follower_id": 4,
+      "following_id": 3
+    },
+    {
+      "follower_id": 4,
+      "following_id": 2
+    },
+    {
+      "follower_id": 5,
+      "following_id": 2
+    },
+    {
+      "follower_id": 5,
+      "following_id": 3
+    },
+    {
+      "follower_id": 5,
+      "following_id": 1
+    },
+    {
+      "follower_id": 5,
+      "following_id": 4
+    }
+  ]
+}
