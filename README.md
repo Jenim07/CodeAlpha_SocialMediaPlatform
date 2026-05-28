@@ -45,7 +45,6 @@ npm install
 npm start
 ```
 
-The app runs on `http://localhost:3000` (auto-increments if port is in use).
 
 ## Project Structure
 
